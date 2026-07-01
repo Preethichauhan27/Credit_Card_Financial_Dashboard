@@ -10,6 +10,7 @@ PostgreSQL
 SQL
 Power Query
 DAX
+
 📂 Data Source
 Imported customer and credit card transaction data from PostgreSQL.
 Connected multiple tables using data modeling.
@@ -17,11 +18,13 @@ Connected multiple tables using data modeling.
 Cleaned and transformed data using Power Query.
 Built relationships between tables.
 Created DAX measures and calculated columns for analysis.
+
 📊 DAX Calculations
 Age Group Classification
 Week Number
 Week-over-Week (WoW %) Analysis
 Revenue & Transaction KPIs
+
 📈 Dashboard Highlights
 Weekly Revenue & Transaction Analysis
 Customer Demographics (Age, Gender, Income, Education)
