@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Dashboard
-![CREDIT CARD LOGO](realistic-credit-card-design_23-2149126093.avif)
+
 📌 Project Objective
 
 Developed an interactive Credit Card Financial Dashboard in Power BI to monitor weekly business performance, customer behavior, and key financial KPIs, enabling stakeholders to make data-driven decisions.
