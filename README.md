@@ -1,2 +1,2 @@
 # Credit_Card_Financial_Dashboard
-POWBI DASHBOARD
+![CREDIT CARD LOGO]()
